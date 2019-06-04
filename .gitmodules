@@ -1,0 +1,3 @@
+[submodule "flowchartDetection"]
+	path = flowchartDetection
+	url = git@github.com:children19930928/flowchartDetection.git
